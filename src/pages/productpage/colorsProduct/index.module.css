@@ -1,0 +1,18 @@
+.circle-btn {
+    width: 50px; /* Chiều rộng của button */
+    height: 50px; /* Chiều cao của button */
+    border-radius: 50%; /* Làm cho button thành hình tròn */
+    border: none; /* Bỏ viền của button */
+    color: white; /* Màu chữ */
+    text-align: center; /* Canh giữa chữ */
+    line-height: 50px; /* Canh giữa chữ theo chiều dọc */
+    cursor: pointer; /* Thay đổi con trỏ chuột khi hover */
+    font-size: 16px; /* Kích thước chữ */
+  }
+.customBtn
+{
+    width: 50px;
+    height: 50px;
+    margin: 10px 20px 10px 0px;
+    border-radius: 50%;
+}

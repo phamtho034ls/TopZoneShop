@@ -1,0 +1,44 @@
+.chooseCate {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 50px auto 80px;
+  max-width: 1200px;
+  min-width: 1024px;
+  width: 100%;
+  list-style-type: none;
+}
+.chooseCate li {
+  float: left;
+  width: 15%;
+  margin: 0 10px;
+  border-radius: 12px;
+  background: #323232;
+  height: 220px;
+  position: relative;
+  text-decoration: none;
+  padding: 10px;
+  transition: background-color 0.3s ease; /* Sử dụng transition cho hiệu ứng mượt mà */
+}
+.chooseCate li a {
+  display: block;
+  overflow: hidden;
+  text-decoration: none;
+  color: #ffff;
+}
+a {
+  text-decoration: none;
+}
+.chooseCate li .imgCatesp {
+  display: block;
+  overflow: hidden;
+  margin: 0 auto;
+
+}
+.chooseCate li :hover {
+  background-color: #ffff; /* Màu nền khi hover */
+}
+.backRoughtColor
+{
+  background-color: #000;
+}

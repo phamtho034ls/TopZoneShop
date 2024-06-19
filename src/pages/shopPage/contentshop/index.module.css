@@ -1,0 +1,72 @@
+video {
+  display: block;
+  width: 100%;
+  height: auto;
+  margin: auto;
+  position: relative;
+}
+.logoTopZone {
+  margin: auto;
+  width: 30%;
+  bottom: 3%;
+  right: 0;
+  left: 0;
+  margin-left: auto;
+  margin-right: auto;
+  position: absolute;
+  z-index: 10;
+}
+.videoTopzone {
+  display: block;
+  overflow: hidden;
+  width: 100%;
+  position: relative;
+}
+.listShop {
+  padding: 10px;
+}
+.tableShop {
+  margin: 0 auto;
+  width: 1200px;
+  height: 100%;
+  border: 0.5px solid white;
+  border-radius: 15px;
+}
+.topTable {
+  display: flex;
+  padding-bottom: 40px;
+  border-bottom: 1px solid #757575;
+  margin-bottom: 20px;
+  text-align: center;
+  justify-content: center;
+  padding-top: 40px;
+}
+.topTable p {
+  padding: 5px 20px;
+  cursor: move;
+}
+.contentTable {
+  padding: 10px 20px;
+}
+.contentTable a {
+  text-decoration: none;
+}
+.backrought {
+  background: #323232;
+  margin: 20px 0px 0px 0px;
+}
+
+.overlay-bg {
+  background: linear-gradient(
+    180deg,
+    rgba(0, 0, 0, 0) 2.68%,
+    rgba(0, 0, 0, 0.72) 53.2%,
+    rgba(0, 0, 0, 0.86) 69.35%,
+    #000 86.01%
+  );
+  height: 50%;
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  width: 100%;
+}

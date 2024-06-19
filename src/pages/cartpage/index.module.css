@@ -1,0 +1,81 @@
+.inforCustomer {
+  border-top: 4px solid #e5e5e5;
+  border-bottom: 4px solid #e5e5e5;
+  padding: 15px 30px 10px;
+}
+.middleCart {
+  display: block;
+  background: #fff;
+  box-shadow: 0 0 18px rgba(0, 0, 0, 0.12);
+  border-radius: 15px;
+  width: 50vw;
+  margin: 0 auto;
+  position: relative;
+}
+.genderSelection {
+  display: flex;
+  gap: 40px;
+  justify-content: start;
+  margin-top: 10px;
+}
+.formContainer {
+  background-color: #fff;
+  padding: 10px;
+  border-radius: 8px;
+  height: 100px;
+}
+
+.formGroup {
+  margin-bottom: 15px;
+  display: flex;
+}
+.formGroup input {
+  width: 100%;
+  padding: 10px;
+  margin: 0 10px;
+  border: 1px solid #ccc;
+  border-radius: 15px;
+  box-sizing: border-box;
+  font-size: 16px;
+  text-align: start;
+  justify-content: space-between;
+}
+.formGroup button {
+  width: 100%;
+  padding: 10px;
+  margin: 0 10px;
+  border: 1px solid #ccc;
+  border-radius: 15px;
+  box-sizing: border-box;
+  font-size: 16px;
+  text-align: start;
+  color: #000;
+}
+.btnGroup {
+  width: 100%;
+  padding: 10px;
+  margin: 0 10px;
+  border: 1px solid #ccc;
+  border-radius: 15px;
+  box-sizing: border-box;
+  font-size: 16px;
+  text-align: start;
+}
+.Thanhtoan {
+  border-top: 4px solid #e5e5e5;
+  border-bottom: 4px solid #e5e5e5;
+  padding: 15px 30px 10px;
+}
+.banderThanhToan
+{
+    width: 100%;
+    border: 1px solid #ccc;
+    border-radius: 15px;
+    height: 50px;
+    margin: 0 auto;
+    padding: 10px;
+    background-color: rgb(98, 98, 227);
+    color: #fff;
+    cursor: pointer;
+
+}

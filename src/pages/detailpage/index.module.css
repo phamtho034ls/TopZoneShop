@@ -1,0 +1,12 @@
+.topdetail {
+  color: #ffff;
+  display: flex;
+  justify-content: center;
+  padding: 50px;
+  text-align: center;
+}
+/* .silderContent 
+{
+    width: 1170px;
+    margin: 0 auto;
+} */
